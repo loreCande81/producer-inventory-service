@@ -1,12 +1,8 @@
 package com.inventory;
 
 import com.retail.nero.ItemDroppedAtRetail; 
-import org.apache.avro.Schema;
 import org.apache.avro.SchemaParseException;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.io.File;
 
 public class App {
     public static void main(String[] args) {
