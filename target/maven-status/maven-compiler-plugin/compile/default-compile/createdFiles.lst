@@ -1,0 +1,5 @@
+com\retail\nero\ItemDroppedAtRetail.class
+com\retail\nero\ItemDroppedAtRetail$Builder.class
+com\retail\nero\ItemReturnedBytheCustomer.class
+com\retail\nero\ItemReturnedBytheCustomer$Builder.class
+com\inventory\App.class

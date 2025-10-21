@@ -1,0 +1,4 @@
+[submodule "schemas"]
+	path = schemas
+	url = https://github.com/loreCande81/eda-schemas.git
+	branch = develop
